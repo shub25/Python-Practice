@@ -59,3 +59,8 @@ ll.delete(ll.head.next)
 ll.delete(ll.head.next)
 print(ll.search(3))
 ll.display()
+
+
+
+
+
